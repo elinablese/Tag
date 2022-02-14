@@ -1,0 +1,12 @@
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\bin\Debug\tag.exe.config
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\bin\Debug\tag.exe
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\bin\Debug\tag.pdb
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.csproj.AssemblyReference.cache
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.Form1.resources
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.Properties.Resources.resources
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.csproj.GenerateResource.cache
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.csproj.CoreCompileInputs.cache
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.exe
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.pdb
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.Form2.resources
+C:\Users\Elina\Desktop\3 курс\Практика\Проект\tag\obj\Debug\tag.Form3.resources
